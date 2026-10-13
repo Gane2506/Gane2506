@@ -44,6 +44,8 @@ Contributions are welcome. Start with [CONTRIBUTING.md](https://github.com/Gane2
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white">
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white">
   <img alt="Codex" src="https://img.shields.io/badge/Codex-412991?style=for-the-badge">
   <img alt="OpenRouter" src="https://img.shields.io/badge/OpenRouter-6566F1?style=for-the-badge&logo=openrouter&logoColor=white">
@@ -51,11 +53,13 @@ Contributions are welcome. Start with [CONTRIBUTING.md](https://github.com/Gane2
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
 - **Language:** Python (asyncio, Typer, Pydantic, Starlette, SQLite)
 - **AI and agents:** LLM orchestration with Claude Code, Codex, OpenRouter and MCP tools
-- **Infra and automation:** Linux, Ansible, CI/CD with GitHub Actions, SSH tooling
+- **Databases:** Supabase, MongoDB, SQLite
+- **Infra and automation:** Linux, Ansible, CI/CD with GitHub Actions, SSH tooling, Vercel
 
 #### How I build
 
