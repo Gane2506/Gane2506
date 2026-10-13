@@ -3,7 +3,7 @@
 <p>
   <a href="https://ganeshunnam.com"><img alt="Website" src="https://img.shields.io/badge/Website-ganeshunnam.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ganeshunnam/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ganeshunnam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Gane2506&style=for-the-badge&color=0A66C2&label=Profile+views">
+  <a href="mailto:gane2506@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gane2506%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 I build AI agent systems and developer tools. I also build custom applications and websites for clients, taking each one from idea to production. My work spans Python, automation and infrastructure.
